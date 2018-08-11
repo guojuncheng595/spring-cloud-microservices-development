@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../gjc-weather-city-eureka/gjc-weather-city-eureka.iml" filepath="$PROJECT_DIR$/../gjc-weather-city-eureka/gjc-weather-city-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gjc-weather-collection-eureka-feign/gjc-weather-collection-eureka-feign.iml" filepath="$PROJECT_DIR$/../gjc-weather-collection-eureka-feign/gjc-weather-collection-eureka-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gjc-weather-data-eureka/gjc-weather-data-eureka.iml" filepath="$PROJECT_DIR$/../gjc-weather-data-eureka/gjc-weather-data-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../old/gjc-weather-eurake-client-feign-hystrix/gjc-weather-eurake-client-feign-hystrix.iml" filepath="$PROJECT_DIR$/../../old/gjc-weather-eurake-client-feign-hystrix/gjc-weather-eurake-client-feign-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../old/gjc-weather-eurake-client-zuul/gjc-weather-eurake-client-zuul.iml" filepath="$PROJECT_DIR$/../../old/gjc-weather-eurake-client-zuul/gjc-weather-eurake-client-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gjc-weather-eurake-server/gjc-weather-eurake-server.iml" filepath="$PROJECT_DIR$/../gjc-weather-eurake-server/gjc-weather-eurake-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gjc-weather-report-eureka-feign-getway/gjc-weather-report-eureka-feign-getway.iml" filepath="$PROJECT_DIR$/../gjc-weather-report-eureka-feign-getway/gjc-weather-report-eureka-feign-getway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gjc-weather-report-eureka-feign-getway-hystrix/gjc-weather-report-eureka-feign-getway-hystrix.iml" filepath="$PROJECT_DIR$/../gjc-weather-report-eureka-feign-getway-hystrix/gjc-weather-report-eureka-feign-getway-hystrix.iml" />
+    </modules>
+  </component>
+</project>

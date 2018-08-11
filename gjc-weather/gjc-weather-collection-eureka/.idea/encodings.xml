@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/../gjc-weather-city-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../gjc-weather-collection-eureka-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../gjc-weather-data-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../gjc-weather-eurake-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../gjc-weather-report-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../gjc-weather-report-eureka-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../gjc-weather-report-eureka-feign-getway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../gjc-weather-report-eureka-feign-getway-hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../old/gjc-weather-eurake-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../old/gjc-weather-eurake-client-feign-hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../old/gjc-weather-eurake-client-zuul" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

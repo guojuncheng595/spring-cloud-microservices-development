@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gjc-weather-city-eureka" />
+        <module name="gjc-weather-collection-eureka-feign" />
+        <module name="gjc-weather-data-eureka" />
+        <module name="gjc-weather-eurake-client-zuul" />
+        <module name="gjc-weather-eurake-server" />
+        <module name="gjc-weather-report-eureka-feign-getway" />
+        <module name="gjc-weather-report-eureka-feign-getway-hystrix" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gjc-weather-base" target="1.8" />
+      <module name="gjc-weather-city-eureka" target="1.8" />
+      <module name="gjc-weather-collection-eureka" target="1.8" />
+      <module name="gjc-weather-collection-eureka (1)" target="1.8" />
+      <module name="gjc-weather-collection-eureka-feign" target="1.8" />
+      <module name="gjc-weather-data-eureka" target="1.8" />
+      <module name="gjc-weather-eurake-client-feign-hystrix" target="1.8" />
+      <module name="gjc-weather-eurake-client-zuul" target="1.8" />
+      <module name="gjc-weather-eurake-server" target="1.8" />
+      <module name="gjc-weather-report-eureka" target="1.8" />
+      <module name="gjc-weather-report-eureka (1)" target="1.8" />
+      <module name="gjc-weather-report-eureka-feign" target="1.8" />
+      <module name="gjc-weather-report-eureka-feign-getway" target="1.8" />
+      <module name="gjc-weather-report-eureka-feign-getway-hystrix" target="1.8" />
+      <module name="initializr-start" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

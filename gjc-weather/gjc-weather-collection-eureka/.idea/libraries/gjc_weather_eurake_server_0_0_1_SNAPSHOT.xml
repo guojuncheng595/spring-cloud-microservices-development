@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gjc-weather-eurake-server-0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../gjc-weather-eurake-server/target/gjc-weather-eurake-server-0.0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

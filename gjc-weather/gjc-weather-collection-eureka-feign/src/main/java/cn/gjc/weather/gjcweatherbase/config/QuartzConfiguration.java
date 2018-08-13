@@ -1,7 +1,6 @@
 package cn.gjc.weather.gjcweatherbase.config;
 
 import cn.gjc.weather.gjcweatherbase.job.WeatherDataSyncJob;
-import org.omg.CORBA.TIMEOUT;
 import org.quartz.*;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

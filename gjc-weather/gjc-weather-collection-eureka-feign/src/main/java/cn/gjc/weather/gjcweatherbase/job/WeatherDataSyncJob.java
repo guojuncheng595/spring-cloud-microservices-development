@@ -10,7 +10,6 @@ import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.scheduling.quartz.QuartzJobBean;
 
-import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -44,9 +43,6 @@ public class WeatherDataSyncJob extends QuartzJobBean {
             logger.info("Weather Data Sync job ,cityId: " + cityId);
             weatherDataCollectionService.sysncDataByCityId(cityId);
         }
-
         logger.info("Weather Data Sync job End");
-
-
     }
 }

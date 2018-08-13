@@ -4,7 +4,6 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.web.servlet.ServletComponentScan;
 import org.springframework.data.redis.core.StringRedisTemplate;
 import org.springframework.data.redis.core.ValueOperations;
 import org.springframework.http.ResponseEntity;
@@ -49,10 +48,8 @@ public class WeatherDataCollectionServiceImpl implements WeatherDataCollectionSe
 
         String key = uri;
         ObjectMapper mapper = new ObjectMapper();
-//        WeatherResponse resp = null;
         String body = null;
         ValueOperations<String, String> ops = stringRedisTemplate.opsForValue();
-
         ResponseEntity<String> respString = restTemplate.getForEntity(uri, String.class);
         if (respString.getStatusCodeValue() == 200) {
             body = respString.getBody();

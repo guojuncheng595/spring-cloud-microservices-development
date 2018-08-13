@@ -1,1 +1,0 @@
-#gjc-weather-report-eureka

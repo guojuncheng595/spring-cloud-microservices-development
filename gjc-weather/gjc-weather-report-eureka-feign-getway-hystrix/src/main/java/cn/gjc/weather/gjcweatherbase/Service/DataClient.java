@@ -13,7 +13,7 @@ import java.util.List;
  * @Description: Data Client
  * @Date: 14:13 2018/8/11
  */
-@FeignClient(name = "gjc-weather-eureka-client-zuul",fallback = DataClientFallback.class)
+@FeignClient("gjc-weather-eureka-client-zuul")
 public interface DataClient {
 
     /**
@@ -22,7 +22,7 @@ public interface DataClient {
      * @return
      * @throws Exception
      */
-    @GetMapping("/city/cities")
+    @GetMapping("cities")
     List<City> listCity() throws Exception;
 
     /**

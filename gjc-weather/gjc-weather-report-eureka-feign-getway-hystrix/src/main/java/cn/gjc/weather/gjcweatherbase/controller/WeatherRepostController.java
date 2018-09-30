@@ -22,7 +22,7 @@ import java.util.List;
  * @Date: 21:37 2018/8/7
  */
 @Controller
-@RequestMapping("report")
+@RequestMapping("/report")
 public class WeatherRepostController {
 
     private final static Logger logger = LoggerFactory.getLogger(WeatherRepostController.class);
@@ -34,7 +34,7 @@ public class WeatherRepostController {
     private DataClient dataClient;
 
     @GetMapping("/cityId/{cityId}")
-    @HystrixCommand(fallbackMethod = "defaultCities")
+//    @HystrixCommand(fallbackMethod = "defaultCities")
     public ModelAndView getReportByCityId(@PathVariable("cityId") String cityId, Model model) throws Exception {
         //由城市数据api微服务来提供数据
         List<City> cityList = null;

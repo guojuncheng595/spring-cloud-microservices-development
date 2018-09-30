@@ -33,6 +33,6 @@ public class WeatherController {
 
     @GetMapping("/hello")
     public String getHello() {
-        return "文文是傻逼";
+        return "文文是头猪";
     }
 }

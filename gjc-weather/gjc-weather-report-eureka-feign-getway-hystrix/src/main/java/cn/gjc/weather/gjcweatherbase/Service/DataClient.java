@@ -22,7 +22,7 @@ public interface DataClient {
      * @return
      * @throws Exception
      */
-    @GetMapping("cities")
+    @GetMapping("/city/cities")
     List<City> listCity() throws Exception;
 
     /**

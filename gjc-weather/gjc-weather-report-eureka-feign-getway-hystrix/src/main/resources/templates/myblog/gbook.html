@@ -1,31 +1,43 @@
-<!doctype html>
-<html>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns:th="http://www.w3.org/1999/xhtml">
 <head>
-<meta charset="gbk">
-<title>��ҳ_�����ɸ��˲��� - ����������</title>
-<meta name="keywords" content="���˲���,�����ɸ��˲���,���˲���ģ��,������" />
-<meta name="description" content="�����ɸ��˲��ͣ���һ��վ��webǰ�����֮·��Ů����Ա������վ���ṩ���˲���ģ�������Դ���صĸ���ԭ����վ��" />
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <script type="text/javascript" charset="utf-8" th:src="@{/utf8-jsp/ueditor.config.js}"></script>
+  <script type="text/javascript" charset="utf-8" th:src="@{/utf8-jsp/ueditor.all.min.js}"> </script>
+  <!--建议手动加在语言，避免在ie下有时因为加载语言失败导致编辑器加载失败-->
+  <!--这里加载的语言文件会覆盖你在配置项目里添加的语言类型，比如你在配置项目里配置的是英文，这里加载的中文，那最后就是中文-->
+  <script type="text/javascript" charset="utf-8" th:src="@{/utf8-jsp/lang/zh-cn/zh-cn.js}"></script>
+
+  <style type="text/css">
+        div{
+            width:100%;
+        }
+    </style>
+<title>首页_郭俊成个人博客 - 技术爱好者</title>
+<meta name="keywords" content="个人博客,郭俊成个人博客,个人博客模板,郭俊成" />
+<meta name="description" content="郭俊成个人博客，是一个站在web前端设计之路的女程序员个人网站，提供个人博客模板免费资源下载的个人原创网站。" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link href="css/base.css" rel="stylesheet">
-<link href="css/index.css" rel="stylesheet">
-<link href="css/m.css" rel="stylesheet">
+<link th:href="@{/js/myblog/css/base.css}" rel="stylesheet">
+<link th:href="@{/js/myblog/css/index.css}" rel="stylesheet">
+<link th:href="@{/js/myblog/css/m.css}" rel="stylesheet">
 <!--[if lt IE 9]>
-<script src="js/modernizr.js"></script>
+<script th:src="@{/js/myblog/js/modernizr.js}"></script>
 <![endif]-->
 </head>
 <body>
 <header>
-  <div class="logo"><a href="/">�����ɸ��˲���</a></div>
+  <div class="logo"><a href="/">郭俊成个人博客</a></div>
   <nav id="nav">
     <ul>
-      <li><a href="/blog/home/page">��ҳ</a></li>
-      <li><a href="/blog/my/picture">����</a></li>
-      <li><a href="/blog/my/tools">����</a></li>
-      <li><a href="/blog/my/travel">����</a></li>
-      <li><a href="/bolg/leave/message">����</a></li>
-      <li><a href="/blog/about/me">������</a></li>
-      <li><a href="info.html">����ҳ</a></li>
-      <li><a href="infopic.html">����ҳ</a></li>
+      <li><a href="/blog/home/page">首页</a></li>
+      <li><a href="/blog/articles">博文</a></li>
+      <li><a href="/blog/my/tools">工具</a></li>
+      <li><a href="/blog/my/travel">旅游</a></li>
+      <li><a href="/blog/leave/message">留言</a></li>
+      <li><a href="/blog/about/me">关于我</a></li>
+      <!--<li><a href="infopic.html">内容页</a></li>-->
+      <!--<li><a href="infopic.html">内容页</a></li>-->
     </ul>
   </nav>
   <script>
@@ -43,40 +55,195 @@ obj.id='selected'
 <article>
   <div class="l_box">
     <div class="about_me">
-      <h2>������</h2>
+      <h2>关于我</h2>
       <ul>
-        <i><img src="images/4.jpg"></i>
-        <p><b>������</b>��һ��80��ݸ�Ůվ����09�����С�һֱǱ���о�webǰ�˼�����һ�߹���һ�߻��۾��飬����һЩ���˲���ģ�壬�Լ�SEO�Ż����ĵá�</p>
+        <i><img th:src="@{/js/myblog/images/4.jpg}"></i>
+        <p><b>郭俊成</b>，一个80后草根女站长！09年入行。一直潜心研究web前端技术，一边工作一边积累经验，分享一些个人博客模板，以及SEO优化等心得。</p>
       </ul>
     </div>
     <div class="wdxc">
-      <h2>�ҵ����</h2>
+      <h2>我的相册</h2>
       <ul>
-        <li><a href="/"><img src="images/7.jpg"></a></li>
-        <li><a href="/"><img src="images/8.jpg"></a></li>
-        <li><a href="/"><img src="images/9.jpg"></a></li>
-        <li><a href="/"><img src="images/10.jpg"></a></li>
-        <li><a href="/"><img src="images/11.jpg"></a></li>
-        <li><a href="/"><img src="images/12.jpg"></a></li>
+        <li><a href="/"><img th:src="@{/js/myblog/images/7.jpg}"></a></li>
+        <li><a href="/"><img th:src="@{/js/myblog/images/8.jpg}"></a></li>
+        <li><a href="/"><img th:src="@{/js/myblog/images/9.jpg}"></a></li>
+        <li><a href="/"><img th:src="@{/js/myblog/images/10.jpg}"></a></li>
+        <li><a href="/"><img th:src="@{/js/myblog/images/11.jpg}"></a></li>
+        <li><a href="/"><img th:src="@{/js/myblog/images/12.jpg}"></a></li>
       </ul>
     </div>
     <div class="guanzhu">
-      <h2>��ע�� ôô��</h2>
+      <h2>关注我 么么哒</h2>
       <ul>
-        <img src="images/wx.jpg">
+        <img th:src="@{/js/myblog/images/wx.jpg}">
       </ul>
     </div>
   </div>
   <div class="r_box">
      <ul class="about">
-     ���Բ����װ
+     留言插件安装
+       <div>
+         <h1>完整demo</h1>
+         <script id="editor" type="text/plain" style="width:1024px;height:500px;"></script>
+</div>
+<div id="btns">
+    <div>
+        <button onclick="getAllHtml()">获得整个html的内容</button>
+        <button onclick="getContent()">获得内容</button>
+        <!--<button onclick="setContent()">写入内容</button>-->
+        <!--<button onclick="setContent(true)">追加内容</button>-->
+        <!--<button onclick="getContentTxt()">获得纯文本</button>-->
+        <!--<button onclick="getPlainTxt()">获得带格式的纯文本</button>-->
+        <!--<button onclick="hasContent()">判断是否有内容</button>-->
+        <!--<button onclick="setFocus()">使编辑器获得焦点</button>-->
+        <!--<button onmousedown="isFocus(event)">编辑器是否获得焦点</button>-->
+        <!--<button onmousedown="setblur(event)" >编辑器失去焦点</button>-->
+
+    </div>
+    <!--<div>-->
+        <!--<button onclick="getText()">获得当前选中的文本</button>-->
+        <!--<button onclick="insertHtml()">插入给定的内容</button>-->
+        <!--<button id="enable" onclick="setEnabled()">可以编辑</button>-->
+        <!--<button onclick="setDisabled()">不可编辑</button>-->
+        <!--<button onclick=" UE.getEditor('editor').setHide()">隐藏编辑器</button>-->
+        <!--<button onclick=" UE.getEditor('editor').setShow()">显示编辑器</button>-->
+        <!--<button onclick=" UE.getEditor('editor').setHeight(300)">设置高度为300默认关闭了自动长高</button>-->
+    <!--</div>-->
+
+    <!--<div>-->
+        <!--<button onclick="getLocalData()" >获取草稿箱内容</button>-->
+        <!--<button onclick="clearLocalData()" >清空草稿箱</button>-->
+    <!--</div>-->
+
+</div>
+<!--<div>-->
+    <!--<button onclick="createEditor()">-->
+    <!--创建编辑器</button>-->
+    <!--<button onclick="deleteEditor()">-->
+    <!--删除编辑器</button>-->
+<!--</div>-->
+
+<script type="text/javascript">
+
+    //实例化编辑器
+    //建议使用工厂方法getEditor创建和引用编辑器实例，如果在某个闭包下引用该编辑器，直接调用UE.getEditor('editor')就能拿到相关的实例
+    var ue = UE.getEditor('editor');
+
+
+    function isFocus(e){
+        alert(UE.getEditor('editor').isFocus());
+        UE.dom.domUtils.preventDefault(e)
+    }
+    function setblur(e){
+        UE.getEditor('editor').blur();
+        UE.dom.domUtils.preventDefault(e)
+    }
+    function insertHtml() {
+        var value = prompt('插入html代码', '');
+        UE.getEditor('editor').execCommand('insertHtml', value)
+    }
+    function createEditor() {
+        enableBtn();
+        UE.getEditor('editor');
+    }
+    function getAllHtml() {
+        alert(UE.getEditor('editor').getAllHtml())
+    }
+    function getContent() {
+        var arr = [];
+        arr.push("使用editor.getContent()方法可以获得编辑器的内容");
+        arr.push("内容为：");
+        arr.push(UE.getEditor('editor').getContent());
+        alert(arr.join("\n"));
+    }
+    function getPlainTxt() {
+        var arr = [];
+        arr.push("使用editor.getPlainTxt()方法可以获得编辑器的带格式的纯文本内容");
+        arr.push("内容为：");
+        arr.push(UE.getEditor('editor').getPlainTxt());
+        alert(arr.join('\n'))
+    }
+    function setContent(isAppendTo) {
+        var arr = [];
+        arr.push("使用editor.setContent('欢迎使用ueditor')方法可以设置编辑器的内容");
+        UE.getEditor('editor').setContent('欢迎使用ueditor', isAppendTo);
+        alert(arr.join("\n"));
+    }
+    function setDisabled() {
+        UE.getEditor('editor').setDisabled('fullscreen');
+        disableBtn("enable");
+    }
+
+    function setEnabled() {
+        UE.getEditor('editor').setEnabled();
+        enableBtn();
+    }
+
+    function getText() {
+        //当你点击按钮时编辑区域已经失去了焦点，如果直接用getText将不会得到内容，所以要在选回来，然后取得内容
+        var range = UE.getEditor('editor').selection.getRange();
+        range.select();
+        var txt = UE.getEditor('editor').selection.getText();
+        alert(txt)
+    }
+
+    function getContentTxt() {
+        var arr = [];
+        arr.push("使用editor.getContentTxt()方法可以获得编辑器的纯文本内容");
+        arr.push("编辑器的纯文本内容为：");
+        arr.push(UE.getEditor('editor').getContentTxt());
+        alert(arr.join("\n"));
+    }
+    function hasContent() {
+        var arr = [];
+        arr.push("使用editor.hasContents()方法判断编辑器里是否有内容");
+        arr.push("判断结果为：");
+        arr.push(UE.getEditor('editor').hasContents());
+        alert(arr.join("\n"));
+    }
+    function setFocus() {
+        UE.getEditor('editor').focus();
+    }
+    function deleteEditor() {
+        disableBtn();
+        UE.getEditor('editor').destroy();
+    }
+    function disableBtn(str) {
+        var div = document.getElementById('btns');
+        var btns = UE.dom.domUtils.getElementsByTagName(div, "button");
+        for (var i = 0, btn; btn = btns[i++];) {
+            if (btn.id == str) {
+                UE.dom.domUtils.removeAttributes(btn, ["disabled"]);
+            } else {
+                btn.setAttribute("disabled", "true");
+            }
+        }
+    }
+    function enableBtn() {
+        var div = document.getElementById('btns');
+        var btns = UE.dom.domUtils.getElementsByTagName(div, "button");
+        for (var i = 0, btn; btn = btns[i++];) {
+            UE.dom.domUtils.removeAttributes(btn, ["disabled"]);
+        }
+    }
+
+    function getLocalData () {
+        alert(UE.getEditor('editor').execCommand( "getlocaldata" ));
+    }
+
+    function clearLocalData () {
+        UE.getEditor('editor').execCommand( "clearlocaldata" );
+        alert("已清空草稿箱")
+    }
+</script>
+       </div>
   
      </ul>
   </div>
 </article>
-<footer>
-  <p>Design by <a href="http://www.yangqq.com" target="_blank">�����ɸ��˲���</a> <a href="/">��ICP��11002373��-1</a></p>
-</footer>
 
+<footer>
+  <p>Design by <a href="http://www.yangqq.com" target="_blank">郭俊成个人博客</a> <a href="/">蜀ICP备11002373号-1</a></p>
+</footer>
 </body>
 </html>

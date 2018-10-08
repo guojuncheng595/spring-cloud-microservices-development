@@ -18,4 +18,36 @@ public class MyBlogHomePageController {
         return new ModelAndView("myblog/index", "", model);
     }
 
+    @GetMapping("/my/picture")
+    public ModelAndView getMyPicture(Model model) throws Exception{
+        return new ModelAndView("myblog/infopic","", model);
+    }
+
+    @GetMapping("/blog/articles")
+    public ModelAndView getBlogArticles(Model model) throws Exception{
+        return new ModelAndView("myblog/infopic","", model);
+    }
+    @GetMapping("/my/tools")
+    public ModelAndView getTools(Model model) throws Exception{
+        return new ModelAndView("myblog/", "", model);
+    }
+
+    @GetMapping("/my/travel")
+    public ModelAndView getTravel(Model model) throws Exception{
+        return new ModelAndView("myblog/", "", model);
+    }
+
+
+    @GetMapping("/leave/message")
+    public ModelAndView getLeaveMessage(Model model) throws Exception{
+        return new ModelAndView("myblog/", "", model);
+    }
+
+
+    @GetMapping("/about/me")
+    public ModelAndView getAboutMe(Model model) throws Exception{
+        return new ModelAndView("myblog/", "", model);
+    }
+
+
 }

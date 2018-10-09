@@ -18,9 +18,14 @@ public class MyBlogHomePageController {
         return new ModelAndView("myblog/index", "", model);
     }
 
-    @GetMapping("/my/travel")
-    public ModelAndView getMyPicture(Model model) throws Exception{
+    @GetMapping("/travel/info")
+    public ModelAndView getTravelInfo(Model model) throws Exception{
         return new ModelAndView("myblog/infopic","", model);
+    }
+
+    @GetMapping("/my/travel")
+    public ModelAndView getMyTravel(Model model) throws Exception{
+        return new ModelAndView("myblog/travel_list","", model);
     }
 
     @GetMapping("/articles")

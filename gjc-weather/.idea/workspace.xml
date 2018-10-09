@@ -26,40 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/resources/templates/myblog/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2244">
-              <caret line="102" column="21" lean-forward="false" selection-start-line="102" selection-start-column="21" selection-end-line="102" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gbook.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/resources/templates/myblog/gbook.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="100" column="0" lean-forward="true" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#script#0;n#div#0;n#ul#0;n#div#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GjcCityBaseDataApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gjc-weather-city-eureka/src/main/java/cn/gjc/weather/gjcweatherbase/GjcCityBaseDataApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GjcGetwayBaseApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/java/cn/gjc/weather/gjcweatherbase/GjcGetwayBaseApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            <state relative-caret-position="531">
+              <caret line="35" column="12" lean-forward="true" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -68,58 +36,18 @@
       <file leaf-file-name="MyBlogHomePageController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/java/cn/gjc/weather/gjcweatherbase/controller/MyBlogHomePageController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="42" column="45" lean-forward="false" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+            <state relative-caret-position="308">
+              <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/resources/templates/myblog/about.html">
+      <file leaf-file-name="travel_list.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/resources/templates/myblog/travel_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="28" column="10" lean-forward="false" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="60" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="infopic.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/resources/templates/myblog/infopic.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="770">
-              <caret line="35" column="1" lean-forward="false" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GjcBaseDataApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gjc-weather-data-eureka/src/main/java/cn/gjc/weather/gjcweatherbase/GjcBaseDataApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ueditor.all.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/resources/static/utf8-jsp/ueditor.all.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320122">
-              <caret line="14551" column="0" lean-forward="false" selection-start-line="14551" selection-start-column="0" selection-end-line="14551" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ueditor.config.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/resources/static/utf8-jsp/ueditor.config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2002">
-              <caret line="91" column="30" lean-forward="false" selection-start-line="91" selection-start-column="30" selection-end-line="91" selection-end-column="30" />
+            <state relative-caret-position="2288">
+              <caret line="125" column="36" lean-forward="false" selection-start-line="125" selection-start-column="36" selection-end-line="125" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -129,11 +57,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>旅游</find>
-      <find>m.css</find>
-      <find>bloginfo</find>
-      <find>blogpic</find>
-      <find>杨青</find>
       <find>原创</find>
       <find>gbk</find>
       <find>articles</find>
@@ -159,6 +82,11 @@
       <find>10000</find>
       <find>.css</find>
       <find>css</find>
+      <find>留言插件安装</find>
+      <find>.about</find>
+      <find>m.css</find>
+      <find>发</find>
+      <find>/blog/my/travel</find>
     </findStrings>
     <replaceStrings>
       <replace>郭俊成</replace>
@@ -166,6 +94,7 @@
       <replace>/blog/articles</replace>
       <replace>/blog/leave/message</replace>
       <replace>&lt;!--&lt;li&gt;&lt;a href=&quot;infopic.html&quot;&gt;内容页&lt;/a&gt;&lt;/li&gt;--&gt;</replace>
+      <replace>/blog/my/travel</replace>
     </replaceStrings>
   </component>
   <component name="GradleLocalSettings">
@@ -183,7 +112,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/resources/static/js/myblog/css/index.css" />
         <option value="$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/resources/templates/myblog/info.html" />
         <option value="$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/resources/templates/myblog/index.html" />
         <option value="$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/resources/templates/myblog/blog_list.html" />
@@ -194,11 +122,14 @@
         <option value="$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/resources/utf8-jsp/ueditor.config.js" />
         <option value="$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/resources/static/js/myblog/css/base.css" />
         <option value="$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/resources/static/utf8-jsp/ueditor.all.js" />
-        <option value="$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/java/cn/gjc/weather/gjcweatherbase/controller/MyBlogHomePageController.java" />
         <option value="$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/resources/templates/myblog/about.html" />
         <option value="$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/resources/templates/myblog/infopic.html" />
+        <option value="$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/resources/static/js/myblog/css/index.css" />
         <option value="$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/resources/static/utf8-jsp/ueditor.config.js" />
         <option value="$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/resources/templates/myblog/gbook.html" />
+        <option value="$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/resources/static/js/myblog/css/m.css" />
+        <option value="$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/java/cn/gjc/weather/gjcweatherbase/controller/MyBlogHomePageController.java" />
+        <option value="$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/resources/templates/myblog/travel_list.html" />
       </list>
     </option>
   </component>
@@ -317,6 +248,25 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gjc-weather" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gjc-weather" type="462c0819:PsiDirectoryNode" />
+              <item name="gjc-weather-report-eureka-feign-getway-hystrix" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gjc-weather" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gjc-weather" type="462c0819:PsiDirectoryNode" />
+              <item name="gjc-weather-report-eureka-feign-getway-hystrix" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="myblog" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -526,19 +476,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.GjcFeignDateApplication" />
-      <item index="1" class="java.lang.String" itemvalue="Application.GjcDiscoveryApplication" />
-      <item index="2" class="java.lang.String" itemvalue="Application.GjcGetwayBaseApplication" />
-      <item index="3" class="java.lang.String" itemvalue="Application.GjcCityBaseDataApplication" />
-      <item index="4" class="java.lang.String" itemvalue="Application.GjcBaseDataApplication" />
+      <item index="0" class="java.lang.String" itemvalue="Application.GjcBaseDataApplication" />
+      <item index="1" class="java.lang.String" itemvalue="Application.GjcCityBaseDataApplication" />
+      <item index="2" class="java.lang.String" itemvalue="Application.GjcFeignDateApplication" />
+      <item index="3" class="java.lang.String" itemvalue="Application.GjcDiscoveryApplication" />
+      <item index="4" class="java.lang.String" itemvalue="Application.GjcGetwayBaseApplication" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Application.GjcGetwayBaseApplication" />
-        <item index="1" class="java.lang.String" itemvalue="Application.GjcBaseDataApplication" />
-        <item index="2" class="java.lang.String" itemvalue="Application.GjcDiscoveryApplication" />
-        <item index="3" class="java.lang.String" itemvalue="Application.GjcFeignDateApplication" />
-        <item index="4" class="java.lang.String" itemvalue="Application.GjcCityBaseDataApplication" />
+        <item index="1" class="java.lang.String" itemvalue="Application.GjcDiscoveryApplication" />
+        <item index="2" class="java.lang.String" itemvalue="Application.GjcFeignDateApplication" />
+        <item index="3" class="java.lang.String" itemvalue="Application.GjcCityBaseDataApplication" />
+        <item index="4" class="java.lang.String" itemvalue="Application.GjcBaseDataApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -569,9 +519,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -582,21 +534,20 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19402985" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20735608" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3043478" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23188406" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -636,14 +587,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/resources/templates/myblog/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2244">
-          <caret line="102" column="21" lean-forward="false" selection-start-line="102" selection-start-column="21" selection-end-line="102" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gjc-weather-city-eureka/src/main/java/cn/gjc/weather/gjcweatherbase/GjcCityBaseDataApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -712,9 +655,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2002">
           <caret line="91" column="52" lean-forward="true" selection-start-line="91" selection-start-column="52" selection-end-line="91" selection-end-column="52" />
-          <folding>
-            <element signature="n#style#0;n#script#0;n#div#0;n#ul#0;n#div#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -730,6 +671,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2486">
           <caret line="113" column="1" lean-forward="false" selection-start-line="113" selection-start-column="1" selection-end-line="113" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -744,6 +686,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -759,6 +702,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -766,6 +710,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="154">
           <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -792,38 +737,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gjc-weather-eureka-server/src/main/java/cn/gjc/weather/initializrstart/InitializrStartApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/resources/templates/weather/report.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/resources/static/js/myblog/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2486">
-          <caret line="113" column="1" lean-forward="false" selection-start-line="113" selection-start-column="1" selection-end-line="113" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjc-weather-collection-eureka-feign/src/main/java/cn/gjc/weather/gjcweatherbase/GjcFeignDateApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjc-weather-eureka-client-zuul/src/main/java/cn/gjc/weather/initializrstart/GjcDiscoveryApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="12" column="41" lean-forward="false" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -832,6 +749,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="318">
           <caret line="27" column="47" lean-forward="true" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -839,6 +757,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -848,6 +767,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="129" column="9" lean-forward="false" selection-start-line="129" selection-start-column="9" selection-end-line="129" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -855,6 +775,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="726">
           <caret line="33" column="13" lean-forward="false" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -892,38 +813,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/java/cn/gjc/weather/gjcweatherbase/GjcGetwayBaseApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/java/cn/gjc/weather/gjcweatherbase/controller/MyBlogHomePageController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="42" column="45" lean-forward="false" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/resources/templates/myblog/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2244">
-          <caret line="102" column="21" lean-forward="false" selection-start-line="102" selection-start-column="21" selection-end-line="102" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gjc-weather-city-eureka/src/main/java/cn/gjc/weather/gjcweatherbase/GjcCityBaseDataApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/resources/templates/myblog/infopic.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="770">
@@ -940,14 +829,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/resources/static/utf8-jsp/ueditor.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2002">
-          <caret line="91" column="30" lean-forward="false" selection-start-line="91" selection-start-column="30" selection-end-line="91" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/resources/templates/myblog/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="616">
@@ -956,13 +837,107 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/gjc-weather-eureka-server/src/main/java/cn/gjc/weather/initializrstart/InitializrStartApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjc-weather-city-eureka/src/main/java/cn/gjc/weather/gjcweatherbase/GjcCityBaseDataApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjc-weather-collection-eureka-feign/src/main/java/cn/gjc/weather/gjcweatherbase/GjcFeignDateApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjc-weather-eureka-client-zuul/src/main/java/cn/gjc/weather/initializrstart/GjcDiscoveryApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="41" lean-forward="false" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/java/cn/gjc/weather/gjcweatherbase/GjcGetwayBaseApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/resources/static/js/myblog/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="34" column="55" lean-forward="false" selection-start-line="34" selection-start-column="55" selection-end-line="34" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/resources/static/utf8-jsp/ueditor.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1694">
+          <caret line="92" column="30" lean-forward="false" selection-start-line="92" selection-start-column="30" selection-end-line="92" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/resources/templates/myblog/gbook.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="100" column="0" lean-forward="true" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#script#0;n#div#0;n#ul#0;n#div#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="92">
+          <caret line="82" column="10" lean-forward="true" selection-start-line="82" selection-start-column="10" selection-end-line="82" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/resources/static/js/myblog/css/m.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="53" column="19" lean-forward="false" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/java/cn/gjc/weather/gjcweatherbase/controller/WeatherRepostController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/resources/templates/myblog/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="531">
+          <caret line="35" column="12" lean-forward="true" selection-start-line="35" selection-start-column="12" selection-end-line="35" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/java/cn/gjc/weather/gjcweatherbase/controller/MyBlogHomePageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gjc-weather-report-eureka-feign-getway-hystrix/src/main/resources/templates/myblog/travel_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2288">
+          <caret line="125" column="36" lean-forward="false" selection-start-line="125" selection-start-column="36" selection-end-line="125" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>

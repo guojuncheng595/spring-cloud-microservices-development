@@ -32,7 +32,7 @@
 .pagelist > b { border: 1px solid #000; padding: 5px 10px; }
 a.curPage { color: #C93282; font-weight: bold; }
 /*about*/
-.about{ padding: 20px; background: rgba(255,255,255,0.8);}
+.about{ padding: 20px; background: rgba(255,255,255,0.6);}
 .about img{ max-width:500px; margin:20px 0; width:100%}
 .cloud ul a { line-height: 24px; height: 24px; display: block; background: #999; float: left; padding: 3px 11px; margin: 10px 10px 0 0; border-radius: 8px; -moz-transition: all 0.5s; -webkit-transition: all 0.5s; -o-transition: all 0.5s; transition: all 0.5s; color: #FFF }
 .cloud ul a:nth-child(8n-7) { background: #8A9B0F }
